@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+eL_aBeLo: "Welcome to eL_aBeLo blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is the blog we will use to post things.
+
+Enjoy!
